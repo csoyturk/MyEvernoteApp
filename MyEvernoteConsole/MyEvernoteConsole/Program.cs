@@ -17,6 +17,9 @@ namespace MyEvernoteConsole
             // wirte code too 4 ...
 
             //development..
+            
+            // can yazdı bundan sonraki kodları
+            // .......
         }
     }
 }
